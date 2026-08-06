@@ -110,15 +110,18 @@ http://localhost:3000
 
 ### 🍴 Menu
 
-<img width="1918" alt="Menu" src="PASTE_MENU_IMAGE_LINK_HERE"/>
+<img width="1918" alt="Menu" src="<img width="1636" height="765" alt="image" src="https://github.com/user-attachments/assets/76a87b1b-dd68-4505-a8b9-f96368a9b12c" />
+"/>
 
 ### 🖼️ Gallery
 
-<img width="1918" alt="Gallery" src="PASTE_GALLERY_IMAGE_LINK_HERE"/>
+<img width="1918" alt="Gallery" src="<img width="1751" height="790" alt="image" src="https://github.com/user-attachments/assets/20bceb25-157d-4b6c-87bb-2e4bddadfd10" />
+"/>
 
 ### 📍 Contact
 
-<img width="1918" alt="Contact" src="PASTE_CONTACT_IMAGE_LINK_HERE"/>
+<img width="1918" alt="Contact" src="<img width="1419" height="743" alt="image" src="https://github.com/user-attachments/assets/cdae97f4-f6e5-408e-b485-4edc7187f648" />
+"/>
 
 ---
 
