@@ -125,7 +125,8 @@ http://localhost:3000
 " />
 
 ### 🍴 Menu
-<img width="1918" height="982" alt="Menu Page"src="https://github.com/user-attachments/assets/a8e46b82-883f-40b7-b88b-b771d7aba4ba" />
+<img width="1918" height="982" alt="Menu Page"src="https://github.com/user-attachments/assets/6c5da8f1-c4e9-40db-9ec2-5e6207f40844" />
+
 " />
 
 ### 🖼️ Gallery
