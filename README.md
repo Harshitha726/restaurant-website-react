@@ -124,7 +124,7 @@ http://localhost:3000
 <img width="1000" alt="Home" src="docs/screenshots/home.png" />
 
 ### 🍴 Menu
-<img width="1000" alt="Menu" src="http://localhost:3000/menu" />
+<img width="1000" alt="Menu" src="https://claude.ai/api/64428489-fafe-4ae6-a245-224bc1f1f482/files/8b6e641c-f043-4901-b025-41d47cee3e8a/preview" />
 
 ### 🖼️ Gallery
 <img width="1000" alt="Gallery" src="docs/screenshots/gallery.png" />
