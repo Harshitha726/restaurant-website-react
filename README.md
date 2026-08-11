@@ -121,23 +121,23 @@ http://localhost:3000
 > Add your screenshot images to a `docs/screenshots/` folder in this repo, then reference them below with relative paths (as shown). Avoid pasting the temporary "copy image URL" links GitHub's editor generates — those are signed URLs that expire and will break in a few minutes.
 
 ### 🏠 Home Page
-<img width="1918" height="982" alt="Home Page" src="<img width="1564" height="903" alt="image" src="https://github.com/user-attachments/assets/703acd7d-dc3e-4018-b28f-754034e40418" />
+<img width="1918" height="982" alt="Home Page" src="https://github.com/user-attachments/assets/703acd7d-dc3e-4018-b28f-754034e40418" />
 " />
 
 ### 🍴 Menu
-<img width="1918" height="982" alt="Menu Page" src="<img width="1755" height="894" alt="{BBCE1B0C-478D-463C-A322-310F0B270D1B}" src="https://github.com/user-attachments/assets/a8e46b82-883f-40b7-b88b-b771d7aba4ba" />
+<img width="1918" height="982" alt="Menu Page"src="https://github.com/user-attachments/assets/a8e46b82-883f-40b7-b88b-b771d7aba4ba" />
 " />
 
 ### 🖼️ Gallery
-<img width="1918" height="982" alt="Gallery Page" src="<img width="1664" height="879" alt="{B951D41F-F6B7-4374-9BE6-44E08FAD9CDA}" src="https://github.com/user-attachments/assets/50e6be64-db8b-48f5-b8d3-a145306fdf14" />
+<img width="1918" height="982" alt="Gallery Page" src="https://github.com/user-attachments/assets/50e6be64-db8b-48f5-b8d3-a145306fdf14" />
 " />
 
 ### 📅 Reservation
-<img width="1918" height="982" alt="Reservation Page" src="<img width="1729" height="898" alt="{750FD8F2-840A-42C0-90E0-4B7D501EE069}" src="https://github.com/user-attachments/assets/d5b73d27-5061-4d51-9403-61104b18756a" />
+<img width="1918" height="982" alt="Reservation Page" src="https://github.com/user-attachments/assets/d5b73d27-5061-4d51-9403-61104b18756a" />
 " />
 
 ### 📍 Contact / Location
-<img width="1918" height="982" alt="Contact Page" src="<img width="1754" height="873" alt="{1429A35C-483A-4C24-9AAB-482F47A43333}" src="https://github.com/user-attachments/assets/e4c5d99b-8bfe-48a6-b786-50f0e0428eed" />
+<img width="1918" height="982" alt="Contact Page" src="https://github.com/user-attachments/assets/e4c5d99b-8bfe-48a6-b786-50f0e0428eed" />
 " />
 
 ---
