@@ -121,7 +121,7 @@ http://localhost:3000
 > Add your screenshot images to a `docs/screenshots/` folder in this repo, then reference them below with relative paths (as shown). Avoid pasting the temporary "copy image URL" links GitHub's editor generates — those are signed URLs that expire and will break in a few minutes.
 
 ### 🏠 Home Page
-<img width="1918" height="982" alt="Home Page" src="PASTE_LINK_HERE" />
+<img width="1918" height="982" alt="Home Page" src="https://lens.usercontent.google.com/image?vsrid=CNOe-YncyIb2rAEQARgBIhCftGZIFmb8-V75JHBO8JEwMoIBIgJ0YSgEQnQKLmxmZS1kdW1teTozNDFjNTMxMC03YTQ4LTRkYmEtYTMyNS1kMDA4YjQ4NGEyZTcSQgpAL2Jucy90YS9ib3JnL3RhL2Jucy9sZW5zLWZyb250ZW5kLWFwaS9wcm9kLmxlbnMtZnJvbnRlbmQtYXBpLzIxN1oECgJ0YTjI19Tc3ZeWA0gAUABg9fmdqfvEm7q4AXgAgAEA" />
 
 ### 🍴 Menu
 <img width="1918" height="982" alt="Menu Page" src="https://claude.ai/api/64428489-fafe-4ae6-a245-224bc1f1f482/files/493bf61f-dcd2-48f5-abd9-cec0a9f7fa8f/preview" />
