@@ -120,17 +120,31 @@ http://localhost:3000
 
 > Add your screenshot images to a `docs/screenshots/` folder in this repo, then reference them below with relative paths (as shown). Avoid pasting the temporary "copy image URL" links GitHub's editor generates — those are signed URLs that expire and will break in a few minutes.
 
+### 🏠 Home Page
+<img width="1000" alt="Home" src="docs/screenshots/home.png" />
+
+### 🍴 Menu
+<img width="1000" alt="Menu" src="docs/screenshots/menu.png" />
+
+### 🖼️ Gallery
+<img width="1000" alt="Gallery" src="docs/screenshots/gallery.png" />
+
+### 📍 Contact
+<img width="1000" alt="Contact" src="docs/screenshots/contact.png" />
+
 ### 🍽️ Full Menu
-<img width="1000" alt="Menu Page" src="https://claude.ai/api/64428489-fafe-4ae6-a245-224bc1f1f482/files/8b6e641c-f043-4901-b025-41d47cee3e8a/preview" />
+<img width="1000" alt="Menu Page" src="docs/screenshots/menu.png" />
 
 ### 🖼️ Full Gallery
-<img width="1000" alt="Gallery Page" src="PASTE_LINK_HERE" />
+<img width="1000" alt="Gallery Page" src="docs/screenshots/gallery.png" />
 
 ### 📅 Reservation
-<img width="1000" alt="Reservation Page" src="PASTE_LINK_HERE" />
+<img width="1000" alt="Reservation Page" src="docs/screenshots/reservation.png" />
 
 ### 📍 Location / Map
-<img width="1000" alt="Location Map" src="PASTE_LINK_HERE" />
+<img width="1000" alt="Location Map" src="docs/screenshots/contact.png" />
+
+---
 
 ## 📄 Home Page Source (`src/pages/Home.jsx`)
 
