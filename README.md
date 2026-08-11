@@ -121,28 +121,19 @@ http://localhost:3000
 > Add your screenshot images to a `docs/screenshots/` folder in this repo, then reference them below with relative paths (as shown). Avoid pasting the temporary "copy image URL" links GitHub's editor generates — those are signed URLs that expire and will break in a few minutes.
 
 ### 🏠 Home Page
-<img width="1000" alt="Home" src="docs/screenshots/home.png" />
+<img width="1918" height="982" alt="Home Page" src="PASTE_LINK_HERE" />
 
 ### 🍴 Menu
-<img width="1000" alt="Menu" src="docs/screenshots/menu.png" />
+<img width="1918" height="982" alt="Menu Page" src="https://claude.ai/api/64428489-fafe-4ae6-a245-224bc1f1f482/files/493bf61f-dcd2-48f5-abd9-cec0a9f7fa8f/preview" />
 
 ### 🖼️ Gallery
-<img width="1000" alt="Gallery" src="docs/screenshots/gallery.png" />
-
-### 📍 Contact
-<img width="1000" alt="Contact" src="docs/screenshots/contact.png" />
-
-### 🍽️ Full Menu
-<img width="1000" alt="Menu Page" src="docs/screenshots/menu.png" />
-
-### 🖼️ Full Gallery
-<img width="1000" alt="Gallery Page" src="docs/screenshots/gallery.png" />
+<img width="1918" height="982" alt="Gallery Page" src="https://claude.ai/api/64428489-fafe-4ae6-a245-224bc1f1f482/files/c3cc8bd7-5682-40ce-bc1e-ee2ad6d98590/preview" />
 
 ### 📅 Reservation
-<img width="1000" alt="Reservation Page" src="docs/screenshots/reservation.png" />
+<img width="1918" height="982" alt="Reservation Page" src="PASTE_LINK_HERE" />
 
-### 📍 Location / Map
-<img width="1000" alt="Location Map" src="docs/screenshots/contact.png" />
+### 📍 Contact / Location
+<img width="1918" height="982" alt="Contact Page" src="PASTE_LINK_HERE" />
 
 ---
 
